@@ -1,0 +1,7 @@
+{
+  "name": "TechBar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
